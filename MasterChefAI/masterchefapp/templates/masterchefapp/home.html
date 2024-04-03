@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MasterChef AI</title>
+    <link rel='stylesheet' href = {% static 'masterchefapp/style.css' %}
+  </head>
+  <body>
+    <h1>Ask your recipe - AI MasterChef</h1>
+    <form method="post" action="{% url 'home' %}">
+      {%csrf_token%} {{form.recipe_message}}
+      <button type="submit">ASK</button>
+    </form>
+    <pre> {{ai_recipe}} </pre>
+  </body>
+</html>
