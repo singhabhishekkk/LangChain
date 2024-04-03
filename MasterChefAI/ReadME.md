@@ -1,5 +1,5 @@
-# Project Title
-Master Chef AI
+# Master Chef AI
+
 ## Description
 
 * Problem definiton : How can a local restaurant with no Master Chefs on staff consistently cook and serve great recipes to their customers?
