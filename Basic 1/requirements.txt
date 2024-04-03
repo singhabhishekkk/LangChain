@@ -1,0 +1,4 @@
+langchain
+openai
+python-dotenv
+langchain-openai # from langchain_openai import OpenAI
