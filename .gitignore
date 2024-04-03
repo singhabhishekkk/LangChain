@@ -1,0 +1,21 @@
+# Mac OS files
+.DS_Store
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django files
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+static/
+
+# Langchain project files
+*.env
+*.db
