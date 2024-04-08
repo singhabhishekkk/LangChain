@@ -1,0 +1,19 @@
+Welcome to our sample text file!
+
+This file is created to serve as a source for the Langchain document loader. It contains a variety of sentences and paragraphs to test the functionality and efficiency of the loader.
+
+We have included different types of text, such as:
+
+1. Descriptive paragraphs
+2. Bullet point lists
+3. Numbered lists
+4. Dialogue examples
+5. Quotes from famous authors
+6. Random sentences with various punctuation and formatting
+
+Feel free to use this file to load into the Langchain document loader and see how it processes the content.
+
+Thank you for choosing our sample text file for your testing needs!
+
+Best regards,
+The Langchain Team

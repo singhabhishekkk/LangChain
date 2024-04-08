@@ -2,3 +2,9 @@ langchain
 openai
 python-dotenv
 langchain-openai # from langchain_openai import OpenAI
+beautifulsoup4 # for parsing HTML and XML documents
+lxml # for html document loader
+pypdf # for pdf document loader
+
+
+# restart kernel after installing these modules
