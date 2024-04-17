@@ -1,6 +1,8 @@
 Welcome to our sample text file!
 
-This file is created to serve as a source for the Langchain document loader. It contains a variety of sentences and paragraphs to test the functionality and efficiency of the loader.
+This file is created to serve as a source for the Langchain document loader. 
+
+It contains a variety of sentences and paragraphs to test the functionality and efficiency of the loader.
 
 We have included different types of text, such as:
 
